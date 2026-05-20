@@ -51,7 +51,7 @@ function Portfolio() {
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/Portfolio-DilharaC">
       <Routes>
         <Route path="/" element={<Portfolio />} />
       </Routes>
