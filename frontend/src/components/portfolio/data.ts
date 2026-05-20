@@ -1,4 +1,4 @@
-import { b } from "framer-motion/client";
+
 import bgpng from "../../assets/bg.png";
 export type SocialLink = { label: string; href: string };
 
