@@ -77,7 +77,7 @@ export const PROJECTS: Project[] = [
       "Designed and developed a platform that enables donors to discover school needs, fund educational initiatives, and track contributions with complete transparency.",
     challenge: "Limited Educational Funding.",
     solution: "Transparent Donation Tracking.",
-    imageSrc: "/images/donateweb.png",
+    imageSrc: "./images/donateweb.png",
     imageAlt: "School Donation Platform",
     imageLabel: "EDUCATION PLATFORM",
     tags: [
@@ -99,7 +99,7 @@ export const PROJECTS: Project[] = [
       "Built a fitness management platform that streamlines member engagement, program discovery, and online fitness services through a responsive and user-focused digital experience.",
     challenge: "Limited Online Fitness Accessibility.",
     solution: "Centralized Fitness Management Platform.",
-    imageSrc: "/images/1.png",
+    imageSrc: "./images/1.png",
     imageAlt: "Fitzone Platform",
     imageLabel: "FITZONE • FITNESS MANAGEMENT PLATFORM",
     tags: [
@@ -121,7 +121,7 @@ export const PROJECTS: Project[] = [
       "Designed and developed a platform that enables donors to discover school needs, fund educational initiatives, and track contributions with complete transparency.",
     challenge: "Limited Educational Funding.",
     solution: "Transparent Donation Tracking.",
-    imageSrc: "/images/donateweb.png",
+    imageSrc: "./images/donateweb.png",
     imageAlt: "School Donation Platform",
     imageLabel: "EDUCATION PLATFORM",
     tags: [

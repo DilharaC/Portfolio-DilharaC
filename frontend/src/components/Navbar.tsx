@@ -22,7 +22,7 @@ export default function Navbar({ scrolled }: NavbarProps) {
           <a href="#" className="nav-logo">
             <img
               className="nav-logo-avatar"
-              src="/images/avatar.png"
+              src="./images/avatar.png"
               alt="Chamuditha Dilhara"
             />
             <div className="nav-logo-text">
